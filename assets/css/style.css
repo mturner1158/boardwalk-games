@@ -29,11 +29,25 @@ body {
 h1, h2, h3 {
     font-family: var(--secondary-font);
     color: var(--primary-colour);
+    text-transform: uppercase;
 }
 
 .sub-heading-colour {
     color: var(--highlight);
 }
+
+.section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+
+/* header */
+
+#header .lead {
+    font-family: var(--secondary-font);
+}
+
 
 
 /* navbar */
