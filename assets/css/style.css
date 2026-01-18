@@ -92,6 +92,18 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+/* events */
+
+.student-memo {
+    background-color: var(--highlight);
+    color: white;
+    display: block;
+    max-width: 300px;
+    margin: auto;
+    padding: 5px 10px;
+    font-size: 0.8rem;
+}
+
 
 /* new games */
 
@@ -164,16 +176,16 @@ h2 {
 
 /* grid visualisaiton CSS for testing */
 
-/*
-.container, .row {
+
+/* .container, .row {
     border: 2px solid black;
 }
 
 .col-12 {
     border: 2px solid white;
     background-color: lightgray;
-}
-*/
+} */
+
 
 /* media queries */
 
