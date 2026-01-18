@@ -68,6 +68,30 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+
+/* new games */
+
+#new-games .card {
+    border: none;
+}
+
+#new-games .card-footer {
+    background-color: transparent;
+    border: none;
+}
+
+/* favourites */
+
+#fav-games .card {
+    border: none;
+}
+
+#fav-games .card-footer {
+    background-color: transparent;
+    border: none;
+}
+
+
 /* navbar */
 
 #navbar {
